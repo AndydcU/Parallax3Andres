@@ -1,0 +1,51 @@
+/* general styles */
+html,
+body {
+    margin:0;
+    padding:0;
+  }
+  
+  #section1 { 
+      background: url(http://img.timeinc.net/time/photoessays/2008/trees/franklin_trees_01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center; 
+      height: 100vh; /* 100% of viewport height */
+      margin: 0 auto; 
+      position: relative; 
+     
+  }
+  #section2 { 
+   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbjPWvZW_cz3dB61Q010tHud20VOWzd0ZDWkv42onq4zIusvqdtcw4ugP);
+      background-size: cover;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center; 
+      height: 100vh; /* 100% of viewport height */
+      margin: 0 auto; 
+      position: relative; 
+  }
+  #section3 { 
+    background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0RAPggtFyYyFby6_vP1YzlXQ48--m4asuKjQOH_BJCi-F_2I0uxSePa5L);
+    
+     background-size: cover;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center; 
+      height: 100vh; /* 100% of viewport height */
+      margin: 0 auto; 
+      position: relative; 
+  }
+  
+  #section4 { 
+    background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0XhQhvtSBB-Ozldl6-xdmFcnYqNJkJyHTD1OBeFdAT67JI5ohlQ);
+    
+     background-size: cover;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center; 
+      height: 100vh; /* 100% of viewport height */
+      margin: 0 auto; 
+      position: relative; 
+  }
